@@ -5,7 +5,10 @@
     ⭐Your Guardian who can be active for 24/7 and report at any instance ⭐ <br>
 </h1>
 
-# [`Demo video link `] https://drive.google.com/file/d/1nOR6yy5G4ZgY8cdG-JQ64Bhac9TG2JM-/view?usp=sharing
+# [`Demo video link `] https://drive.google.com/file/d/1nOR6yy5G4ZgY8cdG-JQ64Bhac9TG2JM-/view?usp=sharing 
+
+if it doesnt work kindly try this link please : https://www.veed.io/view/7f6bf8e9-ed3d-42e1-beb2-d56d266eefea?panel=share
+
 # Google collab link (training the model ): https://colab.research.google.com/drive/1nKxT5cFnrAg63E7sw4YMVyYMvzGEq2Wl?usp=sharing 
 
 Team number : VH139
