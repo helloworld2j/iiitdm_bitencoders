@@ -62,13 +62,13 @@ Flowchart: Flowchart  illustrates the process of incident information extraction
 
 # What's next ?
 1. **Enhanced Detection Capabilities:**
-   - Integrate advanced machine learning techniques for improved detection of complex incidents.
+   - We're integrate advanced machine learning techniques for improved detection of complex incidents.
    
 2. **Scalability and Accessibility:**
-   - Expand deployment to cover larger urban areas, ensuring comprehensive coverage for a wider population.
+   - We're expand deployment to cover larger urban areas, ensuring comprehensive coverage for a wider population.
    
 3. **Integration of Emerging Technologies:**
-   - Explore the integration of EDGE COMPUTING and BLOCKCHAIN to enhance system efficiency and responsiveness.
+   - We're exploring the integration of EDGE COMPUTING and BLOCKCHAIN to enhance system efficiency and responsiveness.
 
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
