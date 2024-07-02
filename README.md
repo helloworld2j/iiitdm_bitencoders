@@ -8,11 +8,7 @@
 
 Team number : VH139
 
-| Name    | Email           |
-|---------|-----------------|
-| Jahan Ravi | iamrengoku04@gmail.com |
-| Madhuresh SS | madh22084.cs@rmkec.ac.in |
-| Mahesh | mahe22086.cs@rmkec.ac.in |
+
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/helloworld2j/iiitdm_bitencoders/assets/119477908/12fe1f1b-9adb-4b28-9cf6-a10de248d78d" alt="Image 1" style="width: 30%; margin: 5px;">
